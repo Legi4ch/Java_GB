@@ -1,3 +1,6 @@
+/*
+Файл с урока. Это не дз, а конспект занятия
+*/
 package Homework2;
 
 import java.io.File;
